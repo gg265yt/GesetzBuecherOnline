@@ -1,6 +1,9 @@
 body{
     background-color: #000000;
 }
+a{
+    color: whitesmoke;
+}
 .logo a{
     font-size: 35px;
     font-weight: 600;
