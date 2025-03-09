@@ -13,6 +13,9 @@ a{
 .paddingl{
     padding-left: 15px;
 }
+.padding2{
+    padding-left: 30px;
+}
 .navbar{
     position: fixed;
     top: 0;
